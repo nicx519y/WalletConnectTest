@@ -1,0 +1,7 @@
+{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "emulator.emulatorPathWindows": "%ANDROID_HOME%\\emulator",
+    "emulator.emulatorPathMac": "$ANDROID_HOME/emulator",
+    "emulator.emulatorPathLinux": "$ANDROID_HOME/emulator",
+    "emulator.emulatorPath": "%ANDROID_HOME%\\emulator"
+}
